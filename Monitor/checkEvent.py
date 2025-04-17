@@ -9,8 +9,8 @@ import json
 # AMI connection details
 AMI_HOST = 'localhost'
 AMI_PORT = 5038
-AMI_USER = 'checkevent'
-AMI_SECRET = 'J4n1th1n2k'
+AMI_USER = 'your_username'
+AMI_SECRET = 'your_secret_password'
 
 # Google Cloud Pub/Sub settings
 #PROJECT_ID = 'your-google-cloud-project-id'
